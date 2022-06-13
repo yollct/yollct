@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Bioinformaticians, a biologist and a fast learner. 
+I am a Bioinformatician, a biologist and a fast learner. 
