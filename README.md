@@ -12,7 +12,7 @@
 </div>
 
 
-- 🔭 I'm a PhD student in Bioinformatics 
+🔭 I'm a PhD student in Bioinformatics 
 
 ---
 
