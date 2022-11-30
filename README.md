@@ -17,4 +17,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yollct&theme=dark&hide_border=true)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yollct&theme=dark&hide_border=true)
