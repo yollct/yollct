@@ -17,8 +17,8 @@
 ---
 
 ### :fire: My Stats :
-<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=yollct&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
+<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=yollct&show_icons=true&icon_color=63bdbd&text_color=545454&bg_color=d1e6e9&hide_title=false" />  
 
 <p align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=yollct&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=yollct&color=f0cda1&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
